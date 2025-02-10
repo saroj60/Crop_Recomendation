@@ -1,1 +1,1 @@
-# Crop_Recomendation
+# Crop_Recommendation
